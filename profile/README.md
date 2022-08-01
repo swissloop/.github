@@ -1,12 +1,5 @@
 ## Swissloop - A New Journey in Transportation
 
-<!--
+Swissloop is a student-led initiative with the goal of contributing to the research on and advancement of the Hyperloop technology and its application in the real world. To do our part in shaping this new mode of transportation, our team designs and builds operational prototypes of transport capsules — so-called “pods” — with which we compete in the International Hyperloop Pod Competition. In partaking in this competition, we aim to not just add to the further development of this technology but also collect valuable practical experience in the technical and operational aspects of the project. In addition, we want to help raise public awareness of the Hyperloop concept it’s, and its implications for our everyday life and its impact on the future of transportation and mobility technology. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Homepage: [www.swissloop.ch](www.swissloop.ch)
